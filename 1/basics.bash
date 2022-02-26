@@ -20,3 +20,7 @@ ls -l > ls_out 2>&1 # Redirect stdout to ls_out and stderr to wherever stdout is
 
 ls -l 2> /dev/null  # Dismiss stderr
 # Why would we do that? ==> https://www.maketecheasier.com/dev-null-in-linux/
+
+cat < fruit.txt     # Redirect stdin
+
+sort fruit.txt
