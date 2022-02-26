@@ -7,3 +7,4 @@ Watermelon
 Mango
 Avocado
 Tomato
+Apple
