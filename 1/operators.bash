@@ -42,3 +42,5 @@ Command_x1 &&Command_x2 || Command_x3 && Command_x4
 # Command_x1 fails and then nothing happens, command_x3 does not run
 
 # Can you think of an operator to fix the problem?
+
+nano test\(1\).txt      # Concatenates string
