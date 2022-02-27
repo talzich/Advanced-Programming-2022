@@ -28,3 +28,17 @@ apt-get update || apt-get upgrade   #???
 
 ping -c3 www.tecmint.com && echo "Verified" || echo "Host Down" # What does that do?
 
+[ -d bin ] || { echo Directory does not exist, creating directory now.; mkdir bin; } && echo Directory exists. # Blocks commands together
+
+
+# ========
+# Exercise:
+# A developer is searching for the next behaviour:
+# Run either command_x1 AND command_x2 OR command_x3 AND command_x4
+
+# The developer writes the following:
+Command_x1 &&Command_x2 || Command_x3 && Command_x4
+
+# Command_x1 fails and then nothing happens, command_x3 does not run
+
+# Can you think of an operator to fix the problem?
