@@ -1,9 +1,9 @@
-whoami
+whoami  # my user name
 
-who
+who     # all users that are currently connected
 
-last
+last    # last users that connected to the system
 
-chown
+chown   # change file's owner
 
-chmod
+chmod   # change file's permissions
