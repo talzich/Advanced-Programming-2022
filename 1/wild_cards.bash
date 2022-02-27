@@ -18,6 +18,7 @@ ls -l l[es][!_]*    # ls -l on all files with prefix l, e OR s, NOT -
 # ========
 
 touch Lego "lEt's go" "Let it go" "I am learning Linux"
+ls *[Ll][Ee][!Gg]* > le
 
 
 # More wildcards ==> https://www.tecmint.com/use-wildcards-to-match-filenames-in-linux/
