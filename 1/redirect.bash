@@ -27,3 +27,5 @@ sort fruit.txt      # Sort
 
 sort fruit.txt | uniq   # Piping is redirecting stdout of program a to stdin of program b
 ls -l | wc -l
+
+# More wildcards ==> https://www.tecmint.com/use-wildcards-to-match-filenames-in-linux/
