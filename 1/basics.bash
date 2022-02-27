@@ -26,3 +26,4 @@ cat < fruit.txt     # Redirect stdin
 sort fruit.txt      # Sort
 
 sort fruit.txt | uniq   # Piping is redirecting stdout of program a to stdin of program b
+ls -l | wc -l
