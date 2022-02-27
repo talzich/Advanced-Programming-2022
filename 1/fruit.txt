@@ -1,10 +1,10 @@
-Banana
 Apple
-Orange
-Grapes
-Peach
-Watermelon
-Mango
+Apple
 Avocado
+Banana
+Grapes
+Mango
+Orange
+Peach
 Tomato
-Apple
+Watermelon
