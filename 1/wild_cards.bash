@@ -16,3 +16,5 @@ ls -l l[es][!_]*    # ls -l on all files with prefix l, e OR s, NOT -
 # list all files which name's contain le (case insensitive) but not leg
 # store the names in a file called Le
 # ========
+
+touch Lego "lEt's go" "Let it go" "I am learning Linux"
