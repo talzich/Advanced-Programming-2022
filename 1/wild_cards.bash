@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 ls -l l*            # ls -l on all files with prefix l
 
 ls -l l?_*          # ls -l on all files with prefix l, any single char,_
